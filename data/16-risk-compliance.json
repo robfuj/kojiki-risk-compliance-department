@@ -1,0 +1,65 @@
+{
+  "line": "Risk / Compliance",
+  "key": "16-risk-compliance",
+  "number": "16",
+  "primary_question": "What constraints and risks must we manage before they become material failures?",
+  "purpose": "Identify, assess, mitigate, and monitor risk and compliance obligations.",
+  "sub_functions": [
+    "Enterprise Risk",
+    "Compliance Monitoring",
+    "Controls Testing",
+    "Regulatory Change",
+    "Third-Party Risk",
+    "Incident & Breach Management"
+  ],
+  "roles": [
+    "Chief Risk Officer",
+    "VP Compliance",
+    "Risk Director",
+    "Compliance Manager",
+    "Controls Auditor"
+  ],
+  "inputs": "Obligations, controls, incidents, metrics, regulatory changes, assurance evidence.",
+  "outputs": "Risk assessments, control validations, compliance attestations, remediation, risk appetite decisions.",
+  "learning_focus": "Leading indicators; control effectiveness; compliance failures; risk concentrations; regulatory trends.",
+  "line_prompt": "You are the organization's risk and compliance intelligence system. Identify constraints and risks before they become material failures. For each risk determine cause, probability, impact, controls, control effectiveness, early signals, response, acceptable risk, and required mitigation. Learn leading indicators, recurring control failures, risk concentrations, regulatory patterns, and controls that reduce incidents.",
+  "operating_tree": [
+    "OBLIGATION / RISK",
+    "ASSESSMENT",
+    "CAUSE",
+    "PROBABILITY",
+    "IMPACT",
+    "CONTROLS",
+    "CONTROL EFFECTIVENESS",
+    "EARLY SIGNALS",
+    "RESPONSE",
+    "ACCEPTABLE RISK",
+    "MITIGATION",
+    "MONITORING"
+  ],
+  "decision_states": [
+    "IDENTIFIED",
+    "ASSESSED",
+    "CONTROLLED",
+    "MONITORED",
+    "BREACHED",
+    "REMEDIATING",
+    "CLOSED"
+  ],
+  "critical_prompts": [
+    "What risk or obligation exists?",
+    "What is the cause?",
+    "What is the probability?",
+    "What is the impact?",
+    "What controls exist?",
+    "Are they effective?"
+  ],
+  "decision_outputs": [
+    "Accept",
+    "Mitigate",
+    "Transfer",
+    "Avoid",
+    "Escalate",
+    "Monitor"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "decision_object": {
+    "decision_id": "RIS-2026-027",
+    "decision_name": "Vendor concentration risk",
+    "owning_function": "Risk / Compliance",
+    "decision_owner_role": "Risk Director",
+    "trigger_condition": "Single vendor = 60% of critical supply",
+    "current_state": "High concentration; no backup",
+    "required_inputs": [
+      "spend by vendor",
+      "substitutability",
+      "lead times"
+    ],
+    "evidence_threshold": "Concentration < 40% for critical inputs",
+    "available_options": [
+      "Accept",
+      "Mitigate (dual-source)",
+      "Transfer (insurance)",
+      "Avoid"
+    ],
+    "decision_criteria": "Reduce single-point failure",
+    "constraints": "Budget for second source",
+    "risk_level": "high",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "Vendor financial distress signal",
+    "expected_outcome": "Dual-source for critical input",
+    "verification_method": "Quarterly concentration report",
+    "actual_outcome": "Second source qualified",
+    "learning_extracted": "Concentration > 50% needs a standing mitigation plan",
+    "rule_version": "RIS-RULE-004",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Single vendor 60% of critical supply",
+    "decision": "Mitigate via dual-sourcing",
+    "assumption": "Second source attainable",
+    "action": "Qualify second supplier",
+    "expected_result": "Concentration < 40%",
+    "actual_result": "Second source qualified",
+    "variance": "Confirmed concentration risk",
+    "cause": "No redundancy planned",
+    "learning": "Concentration > 50% needs standing mitigation",
+    "rule_update": "Flag vendor concentration > 50% for mandatory dual-source plan"
+  },
+  "orientation_required": true
+}
