@@ -1,0 +1,120 @@
+{
+  "department": "16-risk-compliance",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 8,
+  "bots": [
+    {
+      "slug": "enterprise-risk",
+      "sub_function": "Enterprise Risk",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "operational-risk",
+      "sub_function": "Operational Risk",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "financial-risk",
+      "sub_function": "Financial Risk",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "regulatory-compliance",
+      "sub_function": "Regulatory Compliance",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "aml-kyc",
+      "sub_function": "AML/KYC",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "monitoring",
+      "sub_function": "Monitoring",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "testing",
+      "sub_function": "Testing",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    },
+    {
+      "slug": "risk-governance",
+      "sub_function": "Risk Governance",
+      "titles": [
+        "Chief Risk Officer",
+        "Chief Compliance Officer",
+        "Head of Compliance",
+        "Risk Director",
+        "Compliance Director",
+        "Compliance Officer",
+        "AML Officer",
+        "Risk Analyst"
+      ]
+    }
+  ]
+}
